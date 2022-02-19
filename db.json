@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "dinosaur",
+      "image": "https://e7.pngegg.com/pngimages/903/892/png-clipart-green-dinosaur-toy-rex-sheriff-woody-buzz-lightyear-slinky-dog-jessie-toy-story-tyrannosaurus-terrestrial-animal-thumbnail.png",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "JACKIE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Border_Terrier.jpg",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "mikey",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Border_Terrier.jpg",
+      "likes": 0,
+      "id": 18
     }
   ]
 }
